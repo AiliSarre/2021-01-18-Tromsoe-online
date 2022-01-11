@@ -90,6 +90,13 @@ INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
+Learn OpenRefine: A power tool for cleaning messy spreadsheet data
+In this type-along workshop, we will cover how to use OpenRefine to clean up messy data that is in tabular format(such as spreadsheet or csv).
+OpenRefine is a powerful free and open-source tool you can use to quickly clean, transform, and export your data into a variety of formats. OpenRefine automatically tracks all changes you make to the raw data, so that the data processing is well documented.
+Many people comment that this tool saves them months of work. Read more about the tool here https://openrefine.org
+This workshop is intended for beginners who have not used OpenRefine before. We will teach you skills that are immediately useful, using lessons and datasets that allow you to quickly apply what you have learned to your own work.
+
+
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
 {% elsif site.carpentry == "dc" %}
